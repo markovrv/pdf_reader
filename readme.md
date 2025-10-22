@@ -22,8 +22,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/pdf-reader-speaker-mode.git
-cd pdf-reader-speaker-mode
+git clone https://github.com/markovrv/pdf_reader.git
+cd pdf_reader
 ```
 
 2. Создайте виртуальное окружение:
@@ -89,7 +89,7 @@ run_pdf_reader.bat
 ## Структура проекта
 
 ```
-pdf-reader-speaker-mode/
+pdf_reader/
 ├── pdf_reader.py          # Основной файл программы
 ├── run_pdf_reader.bat     # BAT файл для запуска (Windows)
 ├── venv/                  # Виртуальное окружение (создается)
